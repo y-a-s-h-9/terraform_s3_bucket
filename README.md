@@ -23,14 +23,14 @@ The project demonstrates the following:
 ![s3](https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/255887e8-df9e-4253-b1f6-170004f61a7c)
 
 ## Screenshots
-<img width="100" alt="Screenshot 2024-05-23 at 19 13 47" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a8c94f2f-5a3d-406c-8d31-de34300727e9">
-<img width="100" alt="Screenshot 2024-05-23 at 19 06 07" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/86eeb3a8-3bfe-4076-8981-2e596ac78f5f">
+<img width="200" alt="Screenshot 2024-05-23 at 19 13 47" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a8c94f2f-5a3d-406c-8d31-de34300727e9">
+<img width="200" alt="Screenshot 2024-05-23 at 19 06 07" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/86eeb3a8-3bfe-4076-8981-2e596ac78f5f">
 <!-- <img width="500" alt="Screenshot 2024-05-23 at 19 05 53" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/73ccbdd6-b6fc-4be0-9412-8f44c621d35b"> -->
-<img width="100" alt="Screenshot 2024-05-23 at 19 04 16" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a186454d-cd07-47d6-9b12-9434227b2356">
-<img width="100" alt="Screenshot 2024-05-23 at 19 04 06" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a822520f-bda9-4e31-b32f-f3ec9b4ab7ab">
-<img width="100" alt="Screenshot 2024-05-23 at 19 04 00" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/b49db8b6-f2c4-4a5a-a79a-8d72376414d0">
-<img width="100" alt="Screenshot 2024-05-23 at 19 04 24" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/d5d61a3c-48db-45de-be5f-e6400502158c">
-<img width="100" alt="Screenshot 2024-05-23 at 19 04 28" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/4b570899-e663-46eb-965f-4a4a20f197b7">
+<img width="200" alt="Screenshot 2024-05-23 at 19 04 16" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a186454d-cd07-47d6-9b12-9434227b2356">
+<img width="200" alt="Screenshot 2024-05-23 at 19 04 06" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a822520f-bda9-4e31-b32f-f3ec9b4ab7ab">
+<img width="200" alt="Screenshot 2024-05-23 at 19 04 00" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/b49db8b6-f2c4-4a5a-a79a-8d72376414d0">
+<img width="200" alt="Screenshot 2024-05-23 at 19 04 24" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/d5d61a3c-48db-45de-be5f-e6400502158c">
+<img width="200" alt="Screenshot 2024-05-23 at 19 04 28" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/4b570899-e663-46eb-965f-4a4a20f197b7">
 
 
   
