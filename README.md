@@ -20,7 +20,8 @@ The project demonstrates the following:
 - Creating S3 bucket and applying the changes 
 - Finally hosting the website
   
-![aws](https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/41dc3aca-7e35-4350-a444-926440d9d956)
+![s3](https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/255887e8-df9e-4253-b1f6-170004f61a7c)
+
 
   
 
