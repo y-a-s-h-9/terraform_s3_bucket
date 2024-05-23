@@ -19,6 +19,10 @@ The project demonstrates the following:
 - Setting up the terrafrom and html files
 - Creating S3 bucket and applying the changes 
 - Finally hosting the website
+  
+![aws](https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/41dc3aca-7e35-4350-a444-926440d9d956)
+
+  
 
 ## Technologies Used
 - AWS account
