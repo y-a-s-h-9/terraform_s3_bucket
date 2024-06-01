@@ -29,7 +29,7 @@ The project demonstrates the following:
 <img width="400" alt="Screenshot 2024-05-23 at 19 04 16" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a186454d-cd07-47d6-9b12-9434227b2356">
 <img width="400" alt="Screenshot 2024-05-23 at 19 04 06" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/a822520f-bda9-4e31-b32f-f3ec9b4ab7ab">
 <img width="400" alt="Screenshot 2024-05-23 at 19 04 00" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/b49db8b6-f2c4-4a5a-a79a-8d72376414d0">
-### Output
+## Output
 <img width="400" alt="Screenshot 2024-05-23 at 19 04 24" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/d5d61a3c-48db-45de-be5f-e6400502158c">
 <img width="400" alt="Screenshot 2024-05-23 at 19 04 28" src="https://github.com/y-a-s-h-9/terraform_s3_bucket/assets/101511684/4b570899-e663-46eb-965f-4a4a20f197b7">
 
